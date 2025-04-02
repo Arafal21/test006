@@ -92,7 +92,7 @@ The application now works as if the school year were now taking place normally.
    The form implements robust input validation, displaying clear error messages for missing or invalid credentials. Token-based authentication is employed, with tokens securely stored in cookies or localStorage depending on the execution context, ensuring safe session management.
    This comprehensive approach guarantees that only users with the appropriate permissions can access protected areas of the application.
 
-   ![https://i.imgur.com/gR8MklE.gif](https://i.imgur.com/gR8MklE.gif)
+   ![https://i.imgur.com/VgTMrTc.gif](https://i.imgur.com/VgTMrTc.gif)
 
 
 
@@ -109,13 +109,10 @@ The application now works as if the school year were now taking place normally.
    Recipients: Parents and students have read-only access to announcements, keeping them up-to-date on events and news.
    Date format: All dates are displayed in US format (MM/DD/YYYY), which is implemented in the formatAnnouncementDate function, among others.
 
-  ![https://i.imgur.com/1cYoRdI.gif](https://i.imgur.com/1cYoRdI.gif)
+  ![https://i.imgur.com/NkOK9hI.gif](https://i.imgur.com/NkOK9hI.gif)
 
-  https://imgur.com/1cYoRdI
-https://i.imgur.com/1cYoRdI.gifv
-[Imgur](https://i.imgur.com/1cYoRdI.gifv)
-<iframe class="imgur-embed" width="100%" height="1080" frameborder="0" src="https://i.imgur.com/1cYoRdI.gifv#embed"></iframe>
-[url=https://imgur.com/1cYoRdI]http://i.imgur.com/1cYoRdI.gifv[/url]
+
+
 
 #### ✅ Grades page:
    Grades: European system (1-6 instead of A-F)
