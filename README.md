@@ -92,10 +92,16 @@ The application now works as if the school year were now taking place normally.
    The login page provides a secure authentication form where users can enter their username and password. It ensures proper role-based access control, allowing only authorized users to proceed to the main application based on session. 
    The form implements robust input validation, displaying clear error messages for missing or invalid credentials. Token-based authentication is employed, with tokens securely stored in cookies or localStorage depending on the execution context, ensuring safe session management.
    This comprehensive approach guarantees that only users with the appropriate permissions can access protected areas of the application.
-
-  [announcements-gif.gif](https://postimg.cc/HjVWT8P6)
+   
+https://postimg.cc/HjVWT8P6
+ https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif
+[announcements-gif.gif](https://postimg.cc/HjVWT8P6)
 [![announcements-gif.gif](https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif)](https://postimg.cc/HjVWT8P6)
-
+[url=https://postimg.cc/HjVWT8P6][img]https://i.postimg.cc/HjVWT8P6/announcements-gif.gif[/img][/url]
+<a href='https://postimg.cc/HjVWT8P6' target='_blank'><img src='https://i.postimg.cc/HjVWT8P6/announcements-gif.gif' border='0' alt='announcements-gif'/></a>
+[url=https://postimg.cc/HjVWT8P6][img]https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif[/img][/url]
+<a href='https://postimg.cc/HjVWT8P6' target='_blank'><img src='https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif' border='0' alt='announcements-gif'/></a>
+https://postimg.cc/delete/NndKNNty/7e0d4e79
 
 #### ✅ Admin page: 
    Accessible only to the principal, the Admin Panel provides complete oversight of all users. You can add teachers, students, or parents by specifying their details (e.g., name, email, phone, role) and assign subjects to teachers. The panel also offers a filtered user list (teachers, students, etc.).
@@ -110,9 +116,14 @@ The application now works as if the school year were now taking place normally.
    Recipients: Parents and students have read-only access to announcements, keeping them up-to-date on events and news.
    Date format: All dates are displayed in US format (MM/DD/YYYY), which is implemented in the formatAnnouncementDate function, among others.
 
- [announcements-gif.gif](https://postimg.cc/HjVWT8P6)
+https://postimg.cc/HjVWT8P6
+https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif
+[announcements-gif.gif](https://postimg.cc/HjVWT8P6)
 [![announcements-gif.gif](https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif)](https://postimg.cc/HjVWT8P6)
-
+[url=https://postimg.cc/HjVWT8P6][img]https://i.postimg.cc/HjVWT8P6/announcements-gif.gif[/img][/url]
+<a href='https://postimg.cc/HjVWT8P6' target='_blank'><img src='https://i.postimg.cc/HjVWT8P6/announcements-gif.gif' border='0' alt='announcements-gif'/></a>
+[url=https://postimg.cc/HjVWT8P6][img]https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif[/img][/url]
+<a href='https://postimg.cc/HjVWT8P6' target='_blank'><img src='https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif' border='0' alt='announcements-gif'/></a>
 
 
 #### ✅ Grades page:
