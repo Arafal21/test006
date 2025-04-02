@@ -1,8 +1,12 @@
-https://ibb.co/BHw0DKdy
-<a href="https://ibb.co/BHw0DKdy"><img src="https://i.ibb.co/bj7chRqs/login-gif.gif" alt="login-gif" border="0" /></a>
-[url=https://ibb.co/BHw0DKdy][img]https://i.ibb.co/bj7chRqs/login-gif.gif[/img][/url]
-<a href="https://ibb.co/BHw0DKdy"><img src="https://i.ibb.co/BHw0DKdy/login-gif.gif" alt="login-gif" border="0"></a>
-[url=https://ibb.co/BHw0DKdy][img]https://i.ibb.co/BHw0DKdy/login-gif.gif[/img][/url]
+https://postimg.cc/jw49yc5z
+https://i.postimg.cc/sXkrd0C0/login-gif.gif
+[login-gif.gif](https://postimg.cc/jw49yc5z)
+[![login-gif.gif](https://i.postimg.cc/sXkrd0C0/login-gif.gif)](https://postimg.cc/jw49yc5z)
+[url=https://postimg.cc/jw49yc5z][img]https://i.postimg.cc/jw49yc5z/login-gif.gif[/img][/url]
+<a href='https://postimg.cc/jw49yc5z' target='_blank'><img src='https://i.postimg.cc/jw49yc5z/login-gif.gif' border='0' alt='login-gif'/></a>
+[url=https://postimg.cc/jw49yc5z][img]https://i.postimg.cc/sXkrd0C0/login-gif.gif[/img][/url]
+<a href='https://postimg.cc/jw49yc5z' target='_blank'><img src='https://i.postimg.cc/sXkrd0C0/login-gif.gif' border='0' alt='login-gif'/></a>
+https://postimg.cc/delete/JfLLrCjr/537a8af6
 
 # ⚡️🔋 XJournal
 
