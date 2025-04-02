@@ -100,6 +100,8 @@ The application now works as if the school year were now taking place normally.
 
    ![https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214dDJ2b2RsbW95a2U1dXcxenp3Y3gyaGI2MmVoYWZ6aWhmbHlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvzZmokgxgdG5YLQ68/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214dDJ2b2RsbW95a2U1dXcxenp3Y3gyaGI2MmVoYWZ6aWhmbHlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvzZmokgxgdG5YLQ68/giphy.gif)
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SvzZmokgxgdG5YLQ68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SvzZmokgxgdG5YLQ68">via GIPHY</a></p>
+
 
 #### ✅ Admin page: 
    Accessible only to the principal, the Admin Panel provides complete oversight of all users. You can add teachers, students, or parents by specifying their details (e.g., name, email, phone, role) and assign subjects to teachers. The panel also offers a filtered user list (teachers, students, etc.).
