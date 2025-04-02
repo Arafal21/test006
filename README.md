@@ -93,8 +93,8 @@ The application now works as if the school year were now taking place normally.
    The form implements robust input validation, displaying clear error messages for missing or invalid credentials. Token-based authentication is employed, with tokens securely stored in cookies or localStorage depending on the execution context, ensuring safe session management.
    This comprehensive approach guarantees that only users with the appropriate permissions can access protected areas of the application.
 
-  [login-gif.gif](https://postimg.cc/jw49yc5z)
-
+  [announcements-gif.gif](https://postimg.cc/HjVWT8P6)
+[![announcements-gif.gif](https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif)](https://postimg.cc/HjVWT8P6)
 
 
 #### ✅ Admin page: 
@@ -110,8 +110,8 @@ The application now works as if the school year were now taking place normally.
    Recipients: Parents and students have read-only access to announcements, keeping them up-to-date on events and news.
    Date format: All dates are displayed in US format (MM/DD/YYYY), which is implemented in the formatAnnouncementDate function, among others.
 
-  [announcements-gif.gif](https://postimg.cc/HjVWT8P6)
-
+ [announcements-gif.gif](https://postimg.cc/HjVWT8P6)
+[![announcements-gif.gif](https://i.postimg.cc/DfcSdqQ3/announcements-gif.gif)](https://postimg.cc/HjVWT8P6)
 
 
 
