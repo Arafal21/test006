@@ -1,7 +1,7 @@
 https://ibb.co/BHw0DKdy
 <a href="https://ibb.co/BHw0DKdy"><img src="https://i.ibb.co/bj7chRqs/login-gif.gif" alt="login-gif" border="0" /></a>
 [url=https://ibb.co/BHw0DKdy][img]https://i.ibb.co/bj7chRqs/login-gif.gif[/img][/url]
-<a href="https://ibb.co/BHw0DKdy"><img src="https://i.ibb.co/BHw0DKdy/login-gif.gif" alt="login-gif" border="0" /></a>
+<a href="https://ibb.co/BHw0DKdy"><img src="https://i.ibb.co/BHw0DKdy/login-gif.gif" alt="login-gif" border="0"></a>
 [url=https://ibb.co/BHw0DKdy][img]https://i.ibb.co/BHw0DKdy/login-gif.gif[/img][/url]
 
 # ⚡️🔋 XJournal
@@ -98,7 +98,7 @@ The application now works as if the school year were now taking place normally.
    The form implements robust input validation, displaying clear error messages for missing or invalid credentials. Token-based authentication is employed, with tokens securely stored in cookies or localStorage depending on the execution context, ensuring safe session management.
    This comprehensive approach guarantees that only users with the appropriate permissions can access protected areas of the application.
 
-   ![https://i.imgur.com/VgTMrTc.gif](https://i.imgur.com/VgTMrTc.gif)
+   ![[https://i.imgur.com/VgTMrTc.gif]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214dDJ2b2RsbW95a2U1dXcxenp3Y3gyaGI2MmVoYWZ6aWhmbHlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvzZmokgxgdG5YLQ68/giphy.gif)](https://i.imgur.com/VgTMrTc.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214dDJ2b2RsbW95a2U1dXcxenp3Y3gyaGI2MmVoYWZ6aWhmbHlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvzZmokgxgdG5YLQ68/giphy.gif))
 
 
 
