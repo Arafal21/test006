@@ -1,13 +1,3 @@
-https://postimg.cc/jw49yc5z
-https://i.postimg.cc/sXkrd0C0/login-gif.gif
-[login-gif.gif](https://postimg.cc/jw49yc5z)
-[![login-gif.gif](https://i.postimg.cc/sXkrd0C0/login-gif.gif)](https://postimg.cc/jw49yc5z)
-[url=https://postimg.cc/jw49yc5z][img]https://i.postimg.cc/jw49yc5z/login-gif.gif[/img][/url]
-<a href='https://postimg.cc/jw49yc5z' target='_blank'><img src='https://i.postimg.cc/jw49yc5z/login-gif.gif' border='0' alt='login-gif'/></a>
-[url=https://postimg.cc/jw49yc5z][img]https://i.postimg.cc/sXkrd0C0/login-gif.gif[/img][/url]
-<a href='https://postimg.cc/jw49yc5z' target='_blank'><img src='https://i.postimg.cc/sXkrd0C0/login-gif.gif' border='0' alt='login-gif'/></a>
-https://postimg.cc/delete/JfLLrCjr/537a8af6
-
 # ⚡️🔋 XJournal
 
 ## 📜 Table of Contents
@@ -86,6 +76,7 @@ The application now works as if the school year were now taking place normally.
 <br/>
 
 ## 🔥 3. Application features & approache:
+<!-- postimg.cc + markdown -->
 
 ### ✅ Application Description:
    A School Electronic Journal application streamlines communication and organization in schools by providing a centralized platform for managing announcements, student records (including grades, attendance, schedule, and exam calendar), and secure login access. Only the principal has the ability to add new members to the school community, while all users can access their account information via the profiles tab. The application enables teachers to manage students' progress in real-time, keeping both students and parents well-informed about their performance.
@@ -102,9 +93,8 @@ The application now works as if the school year were now taking place normally.
    The form implements robust input validation, displaying clear error messages for missing or invalid credentials. Token-based authentication is employed, with tokens securely stored in cookies or localStorage depending on the execution context, ensuring safe session management.
    This comprehensive approach guarantees that only users with the appropriate permissions can access protected areas of the application.
 
-   ![https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214dDJ2b2RsbW95a2U1dXcxenp3Y3gyaGI2MmVoYWZ6aWhmbHlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvzZmokgxgdG5YLQ68/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214dDJ2b2RsbW95a2U1dXcxenp3Y3gyaGI2MmVoYWZ6aWhmbHlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvzZmokgxgdG5YLQ68/giphy.gif)
+  [login-gif.gif](https://postimg.cc/jw49yc5z)
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SvzZmokgxgdG5YLQ68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SvzZmokgxgdG5YLQ68">via GIPHY</a></p>
 
 
 #### ✅ Admin page: 
@@ -120,7 +110,7 @@ The application now works as if the school year were now taking place normally.
    Recipients: Parents and students have read-only access to announcements, keeping them up-to-date on events and news.
    Date format: All dates are displayed in US format (MM/DD/YYYY), which is implemented in the formatAnnouncementDate function, among others.
 
-  ![https://i.imgur.com/NkOK9hI.gif](https://i.imgur.com/NkOK9hI.gif)
+  [announcements-gif.gif](https://postimg.cc/HjVWT8P6)
 
 
 
